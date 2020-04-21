@@ -5,6 +5,7 @@
     <modules>
         <module>service</module>
         <module>common</module>
+        <module>sysuser</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
