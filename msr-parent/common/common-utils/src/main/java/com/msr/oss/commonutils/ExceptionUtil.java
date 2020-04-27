@@ -1,4 +1,4 @@
-package com.msr.commonutils;
+package com.msr.oss.commonutils;
 
 
 import java.io.IOException;

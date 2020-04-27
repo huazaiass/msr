@@ -1,4 +1,4 @@
-package com.msr.servicebase.handler;
+package com.msr.oss.servicebase.handler;
 
 import com.baomidou.mybatisplus.core.handlers.MetaObjectHandler;
 import org.apache.ibatis.reflection.MetaObject;

@@ -1,6 +1,6 @@
 package com.msr.sysuser.controller;
 
-import com.msr.commonutils.R;
+import com.msr.oss.commonutils.R;
 import com.msr.sysuser.entity.Sysuser;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;

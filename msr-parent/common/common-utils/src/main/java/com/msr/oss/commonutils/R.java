@@ -1,4 +1,4 @@
-package com.msr.commonutils;
+package com.msr.oss.commonutils;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;

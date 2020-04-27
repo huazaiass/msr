@@ -1,4 +1,4 @@
-package com.msr.servicebase.exception;
+package com.msr.oss.servicebase.exception;
 
 import io.swagger.annotations.ApiModelProperty;
 import lombok.AllArgsConstructor;

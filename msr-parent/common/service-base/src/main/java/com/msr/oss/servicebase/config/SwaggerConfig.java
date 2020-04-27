@@ -1,4 +1,4 @@
-package com.msr.servicebase.config;
+package com.msr.oss.servicebase.config;
 
 import com.google.common.base.Predicates;
 import org.springframework.context.annotation.Bean;
